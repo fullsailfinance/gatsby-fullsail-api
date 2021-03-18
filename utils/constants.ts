@@ -1,5 +1,5 @@
 // BEP-20 addresses.
-export const CAKE = "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82";
+export const CAKE = "0x8148b58393f00b4B379cBEb8018d3445E0b636a0";
 export const DEAD = "0x000000000000000000000000000000000000dEaD";
 
 // Contract addresses.
